@@ -1,0 +1,14 @@
+C:\Users\Bartek\source\repos\xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bartek\source\repos\xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\bin\Debug\netstandard2.0\App.deps.json
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\bin\Debug\netstandard2.0\App.dll
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\bin\Debug\netstandard2.0\App.pdb
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.dll
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.pdb
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\Pages\UserListPage.xaml.g.cs
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\App.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\Pages\FirstPage.xaml.g.cs
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\Pages\MyPopupPage.xaml.g.cs
+C:\Users\Bartek\source\repos\Xamarin\app\App\App\App\obj\Debug\netstandard2.0\XamlC.stamp

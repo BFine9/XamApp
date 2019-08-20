@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"           
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                 x:Class="App.Pages.MyPopupPage"
+                 CloseWhenBackgroundIsClicked="False"
+                 Title="Szczegółowe dane">        
+    <popup:PopupPage.Content>
+        <StackLayout BackgroundColor="AliceBlue" HorizontalOptions="Center" VerticalOptions="Center">              
+            <Label Text="{Binding UserData.FirstName, StringFormat='Imię: {0}'}" FontSize="Subtitle"></Label>
+            <Label Text="{Binding UserData.LastName, StringFormat='Nazwisko: {0}'}" FontSize="Subtitle"></Label>
+            <Label Text="{Binding UserData.Age, StringFormat='Wiek: {0}'}" FontSize="Subtitle"></Label>
+            <Label Text="{Binding UserData.City, StringFormat='Miasto: {0}'}" FontSize="Subtitle"></Label>
+            <Button Text="Zamknij" Command="{Binding Close}"></Button>
+        </StackLayout>
+    </popup:PopupPage.Content>
+</popup:PopupPage>

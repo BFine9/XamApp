@@ -30,7 +30,7 @@ namespace App.PageModels
                 await CoreMethods.PushPageModel<UserListPageModel>(Users);
             }catch
             {
-                await Application.Current.MainPage.DisplayAlert("Błąd", "Aplikacja wymaga dostępu do internetku", "Ok");
+                await Application.Current.MainPage.DisplayAlert("Błąd", "Aplikacja wymaga dostępu do internetu", "Ok");
             }           
         });
     }
